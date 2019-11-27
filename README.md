@@ -1,10 +1,10 @@
 # Machine_Learning-Statistics-Project
 My project for module Machine Learning &amp; Statistics
 
-Name:                Aidan O'Connor
-GMIT student number: G00364756
-Created:             30/09/2019
-Due date:            13/12/2019
+Name:                Aidan O'Connor</br>
+GMIT student number: G00364756</br>
+Created:             30/09/2019</br>
+Due date:            13/12/2019</br>
 
 ## How to run this jupyter notebook
 ### Method 1: 
@@ -26,16 +26,16 @@ Due date:            13/12/2019
 The contents of this repository relate to the assessment Dr. Ian McGloughlin created for the Machine Leanring and Statistics Module.
 The contents of this repository are listed below...
 
-<b>Licence</b>
+<b>Licence</b></br>
 This is the Licence that was selected in the initialising of this repository: GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
 
-<b>boston.ipynb</b>
+<b>boston.ipynb</b></br>
 Jupyter Notebook containing background, objectives, analysis, results and conclusions in relation to the project
 
-<b>FOLDER: pics</b>
+<b>FOLDER: pics</b></br>
 This is a collection of images that are used in the boston.ipynb jupyter notebook.
 
-<b>FOLDER: Project_pdf</b>
+<b>FOLDER: Project_pdf</b></br>
 This is the Project PDF created by Dr. Ian McGloughlin as part of this module.
 
 
