@@ -21,6 +21,10 @@ Due date:            13/12/2019</br>
 4. Paste the link to the "boston.ipynb" notebook into the NBviewer bar that is display and click "GO!"
 5. The "boston.ipynb" notebook should render on your browser.
 
+or use the below link (sometimes a 404 error is returned):
+
+https://nbviewer.jupyter.org/github/G00364756/52954---Machine_Learning-Statistics-Project/blob/914c814b15cd076daf800d2866df2693ca4580f7/boston.ipynb
+
 ## Contents of Repository
 
 The contents of this repository relate to the assessment Dr. Ian McGloughlin created for the Machine Leanring and Statistics Module.
@@ -38,4 +42,6 @@ This is a collection of images that are used in the boston.ipynb jupyter noteboo
 <b>FOLDER: Project_pdf</b></br>
 This is the Project PDF created by Dr. Ian McGloughlin as part of this module.
 
+<b>references.docx</b>
+Contains a list of all the references used in the project
 
