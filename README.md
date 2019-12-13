@@ -33,8 +33,11 @@ The contents of this repository are listed below...
 <b>Licence</b></br>
 This is the Licence that was selected in the initialising of this repository: GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
 
+<b>Experimentation.ipynb</b></br>
+A jupyter notebook soley for experimenting with the neural network to achieve the most optimum model.
+
 <b>boston.ipynb</b></br>
-Jupyter Notebook containing background, objectives, analysis, results and conclusions in relation to the project
+Jupyter Notebook containing background, objectives, analysis, results and conclusions in relation to the project.
 
 <b>FOLDER: pics</b></br>
 This is a collection of images that are used in the boston.ipynb jupyter notebook.
@@ -43,5 +46,5 @@ This is a collection of images that are used in the boston.ipynb jupyter noteboo
 This is the Project PDF created by Dr. Ian McGloughlin as part of this module.
 
 <b>references.docx</b>
-Contains a list of all the references used in the project
+Contains a list of all the references used in the project.
 
