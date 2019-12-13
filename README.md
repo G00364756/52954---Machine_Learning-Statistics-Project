@@ -23,7 +23,7 @@ Due date:            13/12/2019</br>
 
 or use the below link (sometimes a 404 error is returned):
 
-https://nbviewer.jupyter.org/github/G00364756/52954---Machine_Learning-Statistics-Project/blob/914c814b15cd076daf800d2866df2693ca4580f7/boston.ipynb
+https://nbviewer.jupyter.org/github/G00364756/52954---Machine_Learning-Statistics-Project/blob/master/boston.ipynb
 
 ## Contents of Repository
 
